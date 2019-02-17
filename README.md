@@ -1,6 +1,6 @@
 # lista_de_tarefas
 
-A new Flutter application.
+A simple application in Flutter...
 
 ## Getting Started
 
